@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.vk.kotlinvk"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.vk.kotlinvk"
